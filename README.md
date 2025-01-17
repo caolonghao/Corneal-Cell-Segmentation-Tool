@@ -60,3 +60,6 @@ python main.py -i <输入文件夹> -o <输出文件夹> -t <阈值>
 - 输入图像会被自动归一化到0-255范围
 - 程序会自动创建输出文件夹（如果不存在）
 - 建议根据实际图像情况调整阈值参数
+
+## Acknowledgement
+本代码修改自https://github.com/jpviguerasguillen/corneal_endothelium_TVST
